@@ -68,7 +68,7 @@
 
 //#include <User_Setups/Setup36_RPi_touch_ST7796.h>      // Setup file configured for ESP32 and RPi ST7796 TFT with touch
 
-//#include <User_Setups/Setup43_ST7735.h>            // Setup file configured for my ST7735S 80x160
+#include <User_Setups/Setup43_ST7735.h>            // Setup file configured for my ST7735S 80x160
 //#include <User_Setups/Setup44_TTGO_CameraPlus.h>   // Setup file for ESP32 and TTGO T-CameraPlus ST7789 SPI bus TFT    240x240
 //#include <User_Setups/Setup45_TTGO_T_Watch.h>      // Setup file for ESP32 and TTGO T-Watch ST7789 SPI bus TFT  240x240
 
@@ -90,7 +90,7 @@
 
 //#include <User_Setups/Setup202_SSD1351_128.h>      // Setup file for ESP32/ESP8266 based SSD1351 128x128 1.5inch OLED display
 
-//#include <User_Setups/SetupX_Template.h>
+// #include <User_Setups/SetupX_Template.h>
 
 
 #endif // USER_SETUP_LOADED
